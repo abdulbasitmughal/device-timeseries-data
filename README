@@ -1,0 +1,11 @@
+http://127.0.0.1:59251/browser/
+
+https://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/
+
+https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api
+
+{
+"serial_number":"123",
+  "min_value":"56",
+  "max_value":"45"
+}
